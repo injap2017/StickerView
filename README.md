@@ -14,5 +14,3 @@ Import StickerView.swift to your Xcode project. That's all.
 
 # How to use
 You can have a look the sample project how to use StickerView, its easy to use and well commented.
-
-# Star me
